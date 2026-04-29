@@ -4,6 +4,18 @@ This file is auto-generated. Do not edit manually.
 
 ---
 
+## Release v1.0.3
+
+**Tag:** `v1.0.3` | **Date:** 2026-04-29
+
+## What's Changed
+* Sample code by @MultidimensionalLife in https://github.com/MultidimensionalLife/sample-release/pull/3
+
+
+**Full Changelog**: https://github.com/MultidimensionalLife/sample-release/compare/v1.0.2...v1.0.3
+
+---
+
 ## Release v1.0.2
 
 **Tag:** `v1.0.2` | **Date:** 2026-04-29
